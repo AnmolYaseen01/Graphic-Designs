@@ -6,6 +6,9 @@ Welcome to my Graphic-Designs repository! I'm AnmolYaseen01, and this repository
 
 - **fitnesss.pdf**: Check out this file for a graphic design related to fitness. Feel free to explore and use it as needed.
 
+## Technologies Used
+- Figma 
+
 ## About the Project
 
 This repository is a collection of my graphic design works. If you have any questions or would like to collaborate, feel free to reach out to me directly.
