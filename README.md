@@ -1,6 +1,6 @@
 # Graphic-Designs Repository
 
-Welcome to my Graphic-Designs repository! I'm AnmolYaseen01, and this repository showcases various graphic design files and projects that I've created. Whether you're here to explore my design work or interested in collaboration, you're in the right place.
+Welcome to my Graphic-Designs repository! I'm AnmolYaseen, and this repository showcases various graphic design files and projects that I've created. Whether you're here to explore my design work or interested in collaboration, you're in the right place.
 
 ## Repository Contents
 
